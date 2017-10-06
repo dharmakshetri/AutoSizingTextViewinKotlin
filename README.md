@@ -1,8 +1,8 @@
 ### AutoSizingTextViewinKotlin
 
 AutoSizing TextView in Kotlin
-- Kotlin
-- Support Library
+- ![Kotlin](http://kotlinlang.org/)
+- ![Support Library](https://developer.android.com/topic/libraries/support-library/index.html)
 
 ### Screenshot:
 
